@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: The human knowledge loophole in the 'bitter lesson' for LLMs
-description: Are LLMs a proof that the 'bitter lesson' holds for NLP? Perhaps the opposite is true: they work due to the scale of human data, and not just computation. 
+title: "The human knowledge loophole in the 'bitter lesson' for LLMs"
+description: "Are LLMs a proof that the 'bitter lesson' holds for NLP? Perhaps the opposite is true: they work due to the scale of human data, and not just computation."
 date: 2026-04-27
 future: true
 htmlwidgets: true
